@@ -1,0 +1,72 @@
+html{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 10px 280px 30px
+}
+
+
+body{
+  width: 90%;
+  height: 30%;
+  background-color: rgba(10,10,10,0.5);
+  background-position: center;
+  padding: 40px
+}
+
+
+header{
+  text-align: center;
+}
+
+/* logo */
+img{
+  width: 25%;
+  height: 5%;
+}
+
+/* titolo */
+h2{
+  color: green
+}
+
+
+.pulsanti{
+  background-color: green;
+  padding: 10px
+}
+
+
+.bianco{
+  color: white
+}
+
+
+.paragrafo{
+  font-size: 12px
+}
+
+
+#carica1{
+  width: 250px;
+  height: 20px;
+  background: orange;
+  border-radius: 7px
+}
+
+
+#carica2{
+  width: 550px;
+  height: 20px;
+  background: green;
+  border-radius: 7px
+}
+
+
+#carica3{
+  width: 140px;
+  height: 20px;
+  background: red;
+  border-radius: 7px
+}
